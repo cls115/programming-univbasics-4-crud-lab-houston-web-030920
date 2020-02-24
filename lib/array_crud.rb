@@ -2,9 +2,9 @@ def create_an_empty_array
   []
 end
 
-def my_array = ["tacos", "fries", "burgers", "chicken"]
+var my_array = ["tacos", "fries", "burgers", "chicken"]
   
-end
+
 
 def add_element_to_end_of_array(array, element)
   
