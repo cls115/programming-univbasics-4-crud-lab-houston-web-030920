@@ -2,7 +2,7 @@ def create_an_empty_array
   []
 end
 
-var my_array = ["tacos", "fries", "burgers", "chicken"]
+my_array = ["tacos", "fries", "burgers", "chicken"]
   
 
 
