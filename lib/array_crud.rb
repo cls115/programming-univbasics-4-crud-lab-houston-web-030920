@@ -2,7 +2,7 @@ def create_an_empty_array
   []
 end
 
-def create_an_array('tacos', 'fries', 'burgers', 'chicken' )
+def foods="tacos", "fries", "burgers", "chicken" )
   
 end
 
